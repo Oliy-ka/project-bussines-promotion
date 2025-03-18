@@ -1,0 +1,88 @@
+.client {
+    margin-bottom: 100px;
+}
+
+.client-container {}
+
+.client-title {
+    margin: 0 auto;
+    max-width: 284px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.8;
+    letter-spacing: 0.01em;
+    color: #22343d;
+    margin-bottom: 10px;
+}
+
+.client-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #22343d;
+    max-width: 537px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.client-list {
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+    align-items: center;
+}
+
+.client-list-item {
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    width: 327px;
+    background-color: #fff;
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    padding: 28px 26px;
+}
+
+.client-list-item-img-stars {
+    fill: #F3CD03;
+}
+
+.client-list-item-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: 0.01em;
+    color: #737373;
+    width: 275px;
+    margin-bottom: 16px;
+}
+
+.client-list-item-icon-cont {
+    display: flex;
+    column-gap: 14px;
+}
+
+.client-list-item-img {}
+
+.client-list-item-text-cont {
+    display: flex;
+    flex-direction: column;
+}
+
+.client-list-item-title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    color: #02897a;
+}
+
+.client-list-item-under-title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.71429;
+    letter-spacing: 0.01em;
+    color: #252b42;
+}

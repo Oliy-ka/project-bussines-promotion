@@ -1,0 +1,61 @@
+.collab {
+    padding-bottom: 150px;
+}
+
+.container {}
+
+.collab-container {
+    display: flex;
+    gap: 84px;
+    padding: 41px 0;
+}
+
+.collab-content {
+    width: 486px;
+}
+
+.collab-text-before {
+    font-weight: 600;
+    font-size: 16px;
+    color: #22343d;
+    margin-bottom: 8px;
+}
+
+.collab-title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #22343d;
+    margin-bottom: 25px;
+}
+
+.collab-text {
+    font-size: 16px;
+    line-height: 1.625;
+    color: #22343d;
+    margin-bottom: 30px;
+}
+
+.collab-list {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.collab-list-item {}
+
+.collab-list-item-title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #22343d;
+    margin-bottom: 12px;
+}
+
+.collab-list-item-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #22343d;
+}
+
+.collab-img {}

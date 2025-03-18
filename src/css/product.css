@@ -41,22 +41,22 @@
 }
 
 .product-item:nth-child(1)::before {
-    background-image: url(../images/cursor.svg);
+    background-image: url(../img/product/cursor.svg);
     background-color: #02897a;
 }
 
 .product-item:nth-child(2)::before {
-    background-image: url(../images/snake.svg);
+    background-image: url(../img/product/snake.svg);
     background-color: #4d8dff;
 }
 
 .product-item:nth-child(3)::before {
-    background-image: url(../images/heart.svg);
+    background-image: url(../img/product/heart.svg);
     background-color: #740a76;
 }
 
 .product-item:nth-child(4)::before {
-    background-image: url(../images/watch.svg);
+    background-image: url(../img/product/watch.svg);
     fill: #fff;
     background-color: #f03e3d;
 }

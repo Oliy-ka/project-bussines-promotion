@@ -1,0 +1,27 @@
+.company {
+    padding-top: 100px;
+    padding-bottom: 117px;
+}
+
+.container {}
+
+.company-container {}
+
+.company-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #22343d;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.company-list {
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-list-item {}
+
+.company-list-item-link {}
