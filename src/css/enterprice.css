@@ -1,0 +1,46 @@
+.enterprice {
+    background: linear-gradient(180deg, #f6f6f6 0%, rgba(246, 246, 246, 0) 100%);
+    padding: 53px 0 51px;
+}
+
+.container {}
+
+.enterprice-container {}
+
+.enterprice-title {
+    text-align: center;
+    margin-bottom: 16px;
+    font-weight: 600;
+    font-size: 24px;
+    color: #22343d;
+}
+
+.enterprice-promo {
+    text-align: center;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 34px;
+    color: #22343d;
+}
+
+.enterprice-text {
+    text-align: center;
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #22343d;
+}
+
+.enterprice-btn {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 8px;
+    width: 224px;
+    height: 44px;
+    background: #02897a;
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
