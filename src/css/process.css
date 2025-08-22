@@ -20,8 +20,9 @@
 
 .comment {
     box-shadow: 2px 2px 10px 0 rgba(23, 58, 86, 0.15);
-    padding: 13px;
-    min-width: 281px;
+    padding: 14px 20px;
+    /* min-width: 281px; */
+    border-radius: 30px;
     /* border-radius: 50%;
     width: 281px;
     height: 51; */
